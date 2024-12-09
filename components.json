@@ -12,10 +12,6 @@
   },
   "aliases": {
     "components": "@/app/_components",
-    "utils": "@/app/_lib/utils",
-    "ui": "@/components/ui",
-    "lib": "@/lib",
-    "hooks": "@/hooks"
-  },
-  "iconLibrary": "lucide"
+    "utils": "@/app/_lib/utils"
+  }
 }
